@@ -1,0 +1,2 @@
+[console_scripts]
+sheltr = sheltr.cli:main

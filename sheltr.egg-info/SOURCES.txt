@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+sheltr/__init__.py
+sheltr/cli.py
+sheltr/patterns.py
+sheltr/scanner.py
+sheltr.egg-info/PKG-INFO
+sheltr.egg-info/SOURCES.txt
+sheltr.egg-info/dependency_links.txt
+sheltr.egg-info/entry_points.txt
+sheltr.egg-info/requires.txt
+sheltr.egg-info/top_level.txt
+tests/test_scanner.py
