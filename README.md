@@ -9,7 +9,7 @@ Built by [Tarn](https://tarnsecurity.github.io/tarn/) — open source security &
 ## Install
 
 ```bash
-pip install sheltr
+pip install git+https://github.com/tarnsecurity/sheltr.git
 ```
 
 Or from source:
