@@ -1,5 +1,5 @@
 # sheltr
-
+[![CI](https://github.com/tarnsecurity/sheltr/actions/workflows/ci.yml/badge.svg)](https://github.com/tarnsecurity/sheltr/actions/workflows/ci.yml)
 > A secret scanner for your codebase. Find hardcoded API keys, tokens, and credentials before they end up somewhere they shouldn't.
 
 Built by [Tarn](https://tarnsecurity.github.io/tarn/) — open source security & infra tooling.
