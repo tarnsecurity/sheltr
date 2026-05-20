@@ -57,7 +57,7 @@ def cli():
     pass
 
 
-@cli.command()
+@cli.command("scan")
 @click.argument("target", default=".", type=click.Path(exists=True))
 @click.option("--exclude", "-e", multiple=True, help="Path prefixes to exclude (repeatable)")
 @click.option("--format", "-f", "output_format", default="pretty",
